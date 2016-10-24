@@ -1,0 +1,11 @@
+﻿<Properties StartupItem="CatchUpIAB330_2Service/CatchUpIAB330_2Service.csproj">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CatchUpIAB330__2Service PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Internationals/CatchUp/CatchUp.Core/Database/UserStorageDatabase.cs" line="158" offsetX="479" offsetY="2198" expression="values" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
